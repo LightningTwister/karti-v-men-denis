@@ -125,11 +125,7 @@
 
   0,25 stun
 
-  0,30 beacon behemoth
-
-  0,35 elfhame sanctuary
-
-  0,70 sigil of sleep 
+  0,30 beacon behemoth 
 
   0,25 mage-ring network
 
@@ -144,6 +140,8 @@
   0,50 sphinx of uthuun
 
   0,50 primordial sage
+
+  0.50 Ant Queen 
 
   0,50 everflowing chalice
 
