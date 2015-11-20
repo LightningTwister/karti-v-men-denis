@@ -11,8 +11,6 @@
   
   buried ruin
 
-  burnished hart
-
   captain of the watch
 
   clock of omens
@@ -24,8 +22,6 @@
   deprive
 
   disdainful stroke
-
-  disciple of griselbrand
 
   dreamstone hedron
 
@@ -41,8 +37,6 @@
 
   frontline medic
 
-  geth's verdict
-
   ghost quarter
 
   ghostly flicker
@@ -51,25 +45,17 @@
 
   golem's heart
 
-  golgari keyrune
-
   grand architect
 
-  guul draz overseer
-
-  3x ichorclaw myr
+  2x ichorclaw myr
 
   indulgent tormentor
-
-  4x jaddi lifestrider
 
   jorubai murk lurker
 
   knowledge pool
 
   kuldotha forgemaster
-
-  magewright's stone
 
   magus of the coffers
 
@@ -80,8 +66,6 @@
   naya panorama
 
   nobilis of war
-
-  oak street innkeeper
 
   Ob Nixilis, Unshackled
 
@@ -113,8 +97,6 @@
 
   stubborn denial
 
-  tainted strike
-
   take possession
 
   terra ravager
@@ -123,13 +105,7 @@
 
   treasured find
 
-  unhallowed pact
-
   vendetta
-
-  virulent wound
-
-  voltaic construct
 
   wild defiance
 
