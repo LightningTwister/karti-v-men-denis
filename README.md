@@ -170,6 +170,8 @@
   
 #Proxy List
 
+2x Sol Ring
+
 5x Caged Sun
 
 Uba Mask
@@ -180,8 +182,12 @@ Skyship Weatherlight
 
 Fabricate
 
+semblance anvil
+
 Reshape
 
 Ashnod's Altar
 
 Dreamstone Hedron 
+
+2x Temple of the False God
