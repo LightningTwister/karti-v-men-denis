@@ -171,3 +171,17 @@
 #Proxy List
 
 5x Caged Sun
+
+Uba Mask
+
+Thropter spy network
+
+Skyship Weatherlight 
+
+Fabricate
+
+Reshape
+
+Ashnod's Altar
+
+Dreamstone Hedron 
