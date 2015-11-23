@@ -162,3 +162,12 @@
   2,50 knight of the white orchid
 
   3,30 skullclamp
+
+  Caged sun
+  
+  
+  
+  
+#Proxy List
+
+5x Caged Sun
