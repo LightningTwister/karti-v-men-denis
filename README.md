@@ -184,6 +184,44 @@ Fabricate
 
 semblance anvil
 
+Swords to Plowshares
+
+Final Judgement 
+
+Flickering Ward 
+
+Luminarch Ascension 
+
+Aura of Silence
+
+Story Circle 
+
+ Ghostly Prison
+ 
+ Crackdown
+ 
+ Grand Abolisher
+ 
+ 2x Knight of the White Orchid
+ 
+ Michiko Konda, Truth Seeker
+ 
+ Windborn Muse
+ 
+ Ranger of Eos
+ 
+ Pentarch Paladin 
+ 
+  Sun Titan
+  
+  Reya Dawnbringer 
+  
+  Angelic Arbiter
+  
+  Mimic Vat 
+
+Martial Coup 
+
 Reshape
 
 Ashnod's Altar
