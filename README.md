@@ -158,60 +158,28 @@
   
 #Proxy List
 
-1x Sol Ring
-
 2x Caged Sun
-
-1x Uba Mask
-
-Thropter spy network
-
-Skyship Weatherlight 
-
-Fabricate
-
-semblance anvil
-
-Swords to Plowshares
-
-Flickering Ward 
-
-Luminarch Ascension 
-
-Aura of Silence
-
-Story Circle 
-
- Ghostly Prison
- 
- Crackdown
- 
- Grand Abolisher
- 
- 2x Knight of the White Orchid
- 
- Michiko Konda, Truth Seeker
- 
- Windborn Muse
- 
- Ranger of Eos
- 
- Pentarch Paladin 
- 
-  Sun Titan
-  
-  Reya Dawnbringer 
-  
-  Angelic Arbiter
-  
-  Mimic Vat 
-
-Martial Coup 
-
-Reshape
-
-Ashnod's Altar
-
-Dreamstone Hedron 
-
-2x Temple of the False God
+1x Angelic Arbiter
+1x Archangel of Tithes
+1x Aura of Silence
+1x Crackdown
+1x Endless Horizons
+1x Flickering Ward
+1x Ghostly Prison
+1x Gift of Estates
+1x Glare of Heresy
+1x Grand Abolisher
+1x Greater Auramancy
+1x Luminarch Ascension
+1x Mass Calcify
+1x Michiko Konda, Truth Seeker
+1x Pentarch Paladin
+1x Plea for Guidance
+1x Rout
+1x Sigil of the Empty Throne
+1x Sphere of Safety
+1x Story Circle
+1x Sudden Disappearance
+1x Sun Titan
+1x Temple of the False God
+1x Windborn Muse
