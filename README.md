@@ -5,8 +5,6 @@
   
   barter in blood
   
-  bident of thassa
-  
   blight mamba
   
   buried ruin
@@ -33,13 +31,9 @@
 
   falkenrath noble
 
-  fool's demise
-
   frontline medic
 
   ghost quarter
-
-  ghostly flicker
 
   glistener elf
 
@@ -50,10 +44,6 @@
   2x ichorclaw myr
 
   indulgent tormentor
-
-  jorubai murk lurker
-
-  knowledge pool
 
   kuldotha forgemaster
 
@@ -84,8 +74,6 @@
   serra's blessing
 
   sepulchral primordial
-
-  semblance anvil
 
   shrine of the forsaken gods
 
@@ -162,8 +150,6 @@
   2,50 knight of the white orchid
 
   3,30 skullclamp
-
-  Caged sun
   
   path to exile
   
@@ -172,11 +158,11 @@
   
 #Proxy List
 
-2x Sol Ring
+1x Sol Ring
 
-5x Caged Sun
+2x Caged Sun
 
-Uba Mask
+1x Uba Mask
 
 Thropter spy network
 
@@ -187,8 +173,6 @@ Fabricate
 semblance anvil
 
 Swords to Plowshares
-
-Final Judgement 
 
 Flickering Ward 
 
