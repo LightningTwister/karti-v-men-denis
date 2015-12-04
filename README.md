@@ -1,7 +1,5 @@
 # karti-v-men-denis
 #karti na denis v men
-
-  aetherize
   
   barter in blood
   
@@ -15,12 +13,6 @@
 
   crusader of odric
 
-  dawn of the dead
-
-  deprive
-
-  disdainful stroke
-
   dreamstone hedron
 
   druidic satchel
@@ -29,11 +21,7 @@
 
   escape routes
 
-  falkenrath noble
-
   frontline medic
-
-  ghost quarter
 
   glistener elf
 
@@ -43,13 +31,7 @@
 
   2x ichorclaw myr
 
-  indulgent tormentor
-
   kuldotha forgemaster
-
-  magus of the coffers
-
-  minion reflector
 
   mycosyntth wellspring
 
@@ -57,23 +39,13 @@
 
   nobilis of war
 
-  Ob Nixilis, Unshackled
-
-  plague of vermin
-
   2x plague myr promo
 
   2x prey's vengeance
 
-  rewind
-
   riddlesmith
 
-  sedraxis alchemist
-
   serra's blessing
-
-  sepulchral primordial
 
   shrine of the forsaken gods
 
@@ -83,17 +55,11 @@
 
   storage matrix
 
-  stubborn denial
-
-  take possession
-
   terra ravager
 
   treasure mage
 
   treasured find
-
-  vendetta
 
   wild defiance
 
