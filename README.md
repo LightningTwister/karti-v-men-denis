@@ -19,8 +19,6 @@
 
   elsewhere flask
 
-  escape routes
-
   frontline medic
 
   glistener elf
@@ -34,8 +32,6 @@
   kuldotha forgemaster
 
   mycosyntth wellspring
-
-  naya panorama
 
   nobilis of war
 
@@ -85,8 +81,6 @@
 
   0,25 fierce empath
 
-  0,25 garruk's packleader
-
   0,30 downhill charge
 
   0,40 sakura-tribe scout
@@ -102,9 +96,7 @@
   0,70 sunblast angel
 
   0,80 yavimaya elder
-
-  0,80 krark's thumb
-
+  
   1,30 frozen aether
 
   1,30 Fact or Fiction
@@ -119,7 +111,7 @@
   
   path to exile
   
-  
+  seat of the synod
   
   
 #Proxy List
